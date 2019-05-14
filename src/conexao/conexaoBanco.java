@@ -11,7 +11,7 @@ import java.sql.Statement;
 
 /**
  *
- * @author Big Bear
+ * sdafafasfasfa@author Big Bear
  */
 public class conexaoBanco {
     
